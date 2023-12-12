@@ -1,13 +1,13 @@
-# Sample Hardhat Project
+# A christmas Contract Challenge Day2
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
+This smart contract with a function that accepts a string as an input, adds Merry Christmas and returns the whole string
+Deployed Contract Address.
 ```
+0xf997505e299adfd4e83a26142f1049380a3fc18a9c45a342d3e25715e09573d4
+```
+
+## Sepolia scan
+```
+https://sepolia.etherscan.io/tx/0xf997505e299adfd4e83a26142f1049380a3fc18a9c45a342d3e25715e09573d4
+```
+
